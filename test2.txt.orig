@@ -4,8 +4,16 @@ test
 
 123456
 
-<<<<<<< HEAD
 COM
+
+step1
+
+<<<<<<< HEAD
+step5
+
+step6
+
+step7
 =======
-com
->>>>>>> 66ff95624bb507770e86443f40e5b6c1fad4c0a4
+step5
+>>>>>>> parent of a6d6e14... Revert "step1"
