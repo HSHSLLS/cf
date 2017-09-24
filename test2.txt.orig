@@ -8,12 +8,15 @@ COM
 
 step1
 
-<<<<<<< HEAD
 step5
-
-step6
-
 step7
+
+step9
+
+step11
+
+<<<<<<< HEAD
+step13
 =======
-step5
->>>>>>> parent of a6d6e14... Revert "step1"
+step12s
+>>>>>>> 0c1189c1e1f0e076108c6b749eb32f3faf46466a
