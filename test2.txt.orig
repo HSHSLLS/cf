@@ -1,4 +1,4 @@
-test
+ï»¿test
 
 ²Ù×÷1
 
@@ -15,8 +15,16 @@ step9
 
 step11
 
-<<<<<<< HEAD
-step13
-=======
 step12s
->>>>>>> 0c1189c1e1f0e076108c6b749eb32f3faf46466a
+step13
+
+<<<<<<< HEAD
+person2 yes
+
+person2 dev z1
+=======
+person1 h
+person2 yes
+
+person1 z3
+>>>>>>> 6424291... z3
