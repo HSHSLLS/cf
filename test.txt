@@ -1,4 +1,4 @@
-test
+﻿test
 
 ���
 
@@ -18,3 +18,5 @@ step10
 
 person1 N
 person2 hello
+
+person1 z2
