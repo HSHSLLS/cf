@@ -1,14 +1,14 @@
-test
+锘縯est
 
-你好
+浣犲ソ
 
-操作1
+鎿嶄綔1
 
-操作2
+鎿嶄綔2
 
-操作3
+鎿嶄綔3
 
-操作4-1
+鎿嶄綔4-1
 
 step3
 
@@ -16,6 +16,10 @@ step4
 
 step10
 
+person1 N
 person2 hello
 
 person2 dev z2
+person1 z2
+
+person1 z4

@@ -1,0 +1,27 @@
+test
+
+你好
+
+操作1
+
+操作2
+
+操作3
+
+操作4-1
+
+step3
+
+step4
+
+step10
+
+person2 hello
+
+<<<<<<< HEAD
+person2 dev z2
+=======
+person1 z2
+
+person1 z4
+>>>>>>> d06b266... z4
