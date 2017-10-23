@@ -20,3 +20,5 @@ person1 N
 person2 hello
 
 person1 z2
+
+person1 z4
