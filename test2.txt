@@ -6,7 +6,7 @@
 
 COM
 
-step1
+step1  10-24
 
 step5
 step7
@@ -22,3 +22,5 @@ person1 h
 person2 yes
 
 person1 z3
+
+person1 10-24 7

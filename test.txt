@@ -10,7 +10,7 @@
 
 ����4-1
 
-step3
+step3 10-24
 
 step4
 
@@ -26,3 +26,5 @@ person1 z4
 person1 z5
 
 person1 10-24 1
+
+person1 10-24 6
