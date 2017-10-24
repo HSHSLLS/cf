@@ -27,5 +27,8 @@ person1 z5
 
 person1 10-24 1
 
-person2 10-24 4
+<<<<<<< HEAD
 person1 10-24 6
+=======
+person2 10-24 4
+>>>>>>> 7ace1cfd43e9eaa2dd3a5d6f2628dfeda5dca484

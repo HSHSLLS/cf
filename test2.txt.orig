@@ -1,12 +1,12 @@
-test
+ï»¿test
 
-²Ù×÷1
+ï¿½ï¿½ï¿½ï¿½1
 
 123456
 
 COM
 
-step1
+step1  10-24
 
 step5
 step7
@@ -15,8 +15,16 @@ step9
 
 step11
 
-<<<<<<< HEAD
-step13
-=======
 step12s
->>>>>>> 0c1189c1e1f0e076108c6b749eb32f3faf46466a
+step13
+
+person1 h
+person2 yes
+
+person1 z3
+
+<<<<<<< HEAD
+person1 10-24 7
+=======
+person2 10-24 5
+>>>>>>> 7ace1cfd43e9eaa2dd3a5d6f2628dfeda5dca484
